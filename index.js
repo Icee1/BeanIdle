@@ -57,7 +57,7 @@ function loaded(){
     //"G" gives 100 beans, debug
     document.addEventListener("keydown",function(e){
         if (e.code == "KeyG"){
-            beans+=100
+            beans+=69420
             document.getElementById("beancount").innerHTML = "Beans: "+beans
         }
     })
